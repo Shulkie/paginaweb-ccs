@@ -1,0 +1,19 @@
+.clase1 { 
+    width: 40%;
+    border: 5px;
+    margin: 5px;
+    background:lightgrey;
+    color:palevioletred;
+    
+
+
+}
+.clase2 {
+    width: 20%;
+    height: 10%;
+    border: 5px;
+    margin: 5px;
+    background: rgba(155, 142, 142, 0.925);
+    color:black
+
+}
